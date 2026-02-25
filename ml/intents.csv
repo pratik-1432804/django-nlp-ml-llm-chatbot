@@ -1,0 +1,10 @@
+text,intent
+hi,greeting
+hello,greeting
+hey,greeting
+what is django,faq
+what is machine learning,faq
+how does login work,faq
+explain transformers,complex
+explain deep learning,complex
+tell me about nlp,complex
