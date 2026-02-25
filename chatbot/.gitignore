@@ -1,14 +1,23 @@
 # Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual Environment
+env/
+venv/
 
 # Django
 db.sqlite3
-.env
+media/
+staticfiles/
 
-# Virtual Env
-venv/
-env/
+# IDEs
+.vscode/
+.idea/
 
-# ML models
-*.pkl
+# OS
+.DS_Store
+Thumbs.db
